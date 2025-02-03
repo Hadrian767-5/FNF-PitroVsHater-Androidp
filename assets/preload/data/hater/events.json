@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "sonic",
+		"player3": null,
+		"events": [
+			[
+				153187.5,
+				[
+					[
+						"Play Animation",
+						"anim",
+						"dad"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				193500,
+				[
+					[
+						"Play Animation",
+						"explosion",
+						"dad"
+					],
+					[
+						"Screen Shake",
+						"10",
+						"0.07"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Hater"
+	}
+}

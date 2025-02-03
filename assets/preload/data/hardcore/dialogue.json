@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "fofo",
+			"text": "pronto pitro, ja acabamos :3",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "core"
+		},
+		{
+			"expression": "triste",
+			"text": "serio?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "pitro"
+		},
+		{
+			"expression": "fofo",
+			"text": "claro que nao. ainda tem a ultima musica",
+			"boxState": "normal",
+			"speed": 0.005,
+			"portrait": "core"
+		},
+		{
+			"expression": "tzuei",
+			"text": "tronnzzzeeeeeeeeeeeeeeiiiii",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "core"
+		},
+		{
+			"speed": 0.145,
+			"portrait": "pitro",
+			"boxState": "normal",
+			"expression": "confuso",
+			"text": "...???"
+		}
+	]
+}

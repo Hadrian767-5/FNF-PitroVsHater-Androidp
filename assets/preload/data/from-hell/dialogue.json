@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "triste",
+			"text": "O que que aconteceu?!",
+			"boxState": "angry",
+			"speed": 0.01,
+			"portrait": "pitro"
+		},
+		{
+			"expression": "normal",
+			"text": "voce agora esta no meu mundo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hater"
+		},
+		{
+			"expression": "bravo",
+			"text": "Aqui eu sou muito mais poderoso!! MUAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA",
+			"boxState": "angry",
+			"speed": 0.045,
+			"portrait": "hater"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "hater",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "eu vou te derrotar!! e fazer voce voltar a postar super mario maker fases impossiveis!!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pitro",
+			"boxState": "normal",
+			"expression": "triste",
+			"text": ""
+		}
+	]
+}

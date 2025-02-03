@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				16
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hater note left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-76
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hater note down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				108
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hater note up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				5
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hater note right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hater idle"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "hater anim"
+		},
+		{
+			"offsets": [
+				100,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "final",
+			"indices": [],
+			"name": "hater final"
+		},
+		{
+			"offsets": [
+				517,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "explosion",
+			"indices": [],
+			"name": "hater explosion"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HATER",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		48
+	],
+	"camera_position": [
+		0,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

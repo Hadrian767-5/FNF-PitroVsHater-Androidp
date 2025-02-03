@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PITRO IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PITRO DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PITRO UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				127,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PITRO RIGHT"
+		},
+		{
+			"offsets": [
+				-20,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PITRO LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "PITRO ALT DOWN"
+		},
+		{
+			"offsets": [
+				-31,
+				84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "PITRO ALT UP"
+		},
+		{
+			"offsets": [
+				126,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "PITRO ALT RIGHT"
+		},
+		{
+			"offsets": [
+				-20,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "PITRO ALT LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/paitron",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "paitroll",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		120,
+		-10
+	],
+	"sing_duration": 8,
+	"scale": 1
+}

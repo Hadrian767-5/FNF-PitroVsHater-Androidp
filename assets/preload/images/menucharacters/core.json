@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "core",
+	"position": [
+		-66,
+		42
+	],
+	"flipX": false,
+	"scale": 0.84,
+	"confirm_anim": "idle"
+}

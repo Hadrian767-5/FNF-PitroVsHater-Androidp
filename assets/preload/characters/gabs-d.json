@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				135
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GABS LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-14
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "GABS RISADA"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-4
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "GABS EXE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-27
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GABS DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				64
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GABS UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-9
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GABS RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GABS IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				14
+			],
+			"fps": 24,
+			"anim": "tlg",
+			"indices": [],
+			"name": "GABS TLG"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GABS_D",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "gabs-d",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		80,
+		215
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

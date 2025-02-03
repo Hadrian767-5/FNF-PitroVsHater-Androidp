@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				287,
+				7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hater note left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-102
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hater note down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				248
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hater note up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-221,
+				-3
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hater note right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hater idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "hater idle",
+			"indices": [
+				10,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				47
+			],
+			"anim": "final",
+			"fps": 24,
+			"name": "hater note final",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DEMON",
+	"position": [
+		-90,
+		160
+	],
+	"healthicon": "demon",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		0,
+		255
+	],
+	"camera_position": [
+		-30,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "voce eh muito bono nuossa, bora mais uma",
+			"boxState": "normal",
+			"portrait": "core",
+			"speed": 0.04
+		},
+		{
+			"expression": "normal",
+			"text": "beleza",
+			"boxState": "normal",
+			"portrait": "pitro",
+			"speed": 0.055
+		},
+		{
+			"speed": 0.145,
+			"portrait": "pitro",
+			"boxState": "normal",
+			"expression": "confuso",
+			"text": "..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pitro",
+			"boxState": "normal",
+			"expression": "triste",
+			"text": "Core por que voce subiu na cadeira?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "core",
+			"boxState": "normal",
+			"expression": "fofo",
+			"text": "pra cantar mais alto ue"
+		},
+		{
+			"speed": 0,
+			"portrait": "pitro",
+			"boxState": "normal",
+			"expression": "triste",
+			"text": "    "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pitro",
+			"boxState": "normal",
+			"expression": "triste",
+			"text": "Ta bom??"
+		}
+	]
+}

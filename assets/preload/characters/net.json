@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "NET IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				49,
+				27
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NET UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				-70
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NET DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				74,
+				-100
+			],
+			"loop": false,
+			"anim": "FALOU",
+			"fps": 24,
+			"name": "NET FALOU",
+			"indices": []
+		},
+		{
+			"offsets": [
+				47,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NET LEFT"
+		},
+		{
+			"offsets": [
+				-34,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NET RIGHT"
+		},
+		{
+			"offsets": [
+				26,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "walk",
+			"loop": false,
+			"name": "NET WALK"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/net",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 8,
+	"scale": 1
+}

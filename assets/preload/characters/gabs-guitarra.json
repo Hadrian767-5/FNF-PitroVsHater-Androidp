@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				478,
+				107
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GABS LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				90,
+				-3
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "GABS SING LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				284,
+				-37
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GABS DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-37
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "GABS SING DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				240,
+				473
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GABS UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				31
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "GABS SING UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				116
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GABS RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				-6
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "GABS SING RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "ogidle",
+			"indices": [],
+			"name": "GABS NORMAL IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GABS IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GABS_GUITARRA",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "gabs-guitarra",
+	"flip_x": false,
+	"healthbar_colors": [
+		66,
+		45,
+		209
+	],
+	"camera_position": [
+		-260,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

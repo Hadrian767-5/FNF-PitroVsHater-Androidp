@@ -1,0 +1,76 @@
+{
+	"position": [
+		-20,
+		0
+	],
+	"dialogue_pos": "right",
+	"scale": 1.1,
+	"image": "PITRO_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-3,
+				1
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				-1,
+				12
+			],
+			"idle_name": "PITRO PARADO NORMAL",
+			"loop_name": "PITRO NORMAL"
+		},
+		{
+			"idle_offsets": [
+				63,
+				-18
+			],
+			"anim": "animado",
+			"loop_offsets": [
+				81,
+				10
+			],
+			"idle_name": "PITRO PARADO ANIMADO",
+			"loop_name": "PITRO ANIMADO"
+		},
+		{
+			"idle_offsets": [
+				0,
+				120
+			],
+			"anim": "muito animado",
+			"loop_offsets": [
+				0,
+				120
+			],
+			"idle_name": "PITRO MUITO ANIMADO",
+			"loop_name": "PITRO MUITO ANIMADO"
+		},
+		{
+			"idle_offsets": [
+				-10,
+				10
+			],
+			"anim": "confuso",
+			"loop_offsets": [
+				-10,
+				10
+			],
+			"idle_name": "PITRO CONFUSO",
+			"loop_name": "PITRO CONFUSO"
+		},
+		{
+			"idle_offsets": [
+				-3,
+				-10
+			],
+			"anim": "triste",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PITRO PARADO TRISTE",
+			"loop_name": "PITRO TRISTE"
+		}
+	]
+}

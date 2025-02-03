@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "virso idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "virso note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				3
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "virso note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "virso note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-64
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "virso note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "virso note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				45
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "virso note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "virso note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-16
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "virso note right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				267
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "anim",
+			"loop": false,
+			"name": "virso anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VIRSO",
+	"position": [
+		50,
+		250
+	],
+	"healthicon": "virso",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		60
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

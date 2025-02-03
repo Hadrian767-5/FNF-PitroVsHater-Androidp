@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		-10
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				-5,
+				-18
+			],
+			"loop_name": "CORE NORMAL",
+			"idle_name": "CORE PARADO NORMAL"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "fofo",
+			"idle_offsets": [
+				-4,
+				-18
+			],
+			"loop_name": "CORE FOFO",
+			"idle_name": "CORE PARADO FOFO"
+		},
+		{
+			"loop_offsets": [
+				77,
+				0
+			],
+			"anim": "preocupado",
+			"idle_offsets": [
+				71,
+				-19
+			],
+			"loop_name": "CORE PREOCUPADO",
+			"idle_name": "CORE PARADO PREOCUPADO"
+		},
+		{
+			"loop_offsets": [
+				9,
+				25
+			],
+			"anim": "tzuei",
+			"idle_offsets": [
+				9,
+				26
+			],
+			"loop_name": "CORE TROLL",
+			"idle_name": "CORE TROLL"
+		}
+	],
+	"image": "CORE_Dialogue"
+}

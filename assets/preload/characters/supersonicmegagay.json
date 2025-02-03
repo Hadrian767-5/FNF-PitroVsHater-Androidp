@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				325,
+				7
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hater note left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				87,
+				-123
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hater note down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				16,
+				248
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hater note up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-221,
+				-3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hater note right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "hater idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "hater idle"
+		},
+		{
+			"offsets": [
+				18,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "final",
+			"indices": [],
+			"name": "hater note final"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SUPERSONICMEGAGAY",
+	"position": [
+		-90,
+		160
+	],
+	"healthicon": "megagay",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		11,
+		82
+	],
+	"camera_position": [
+		-30,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

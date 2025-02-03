@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		110,
+		60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "HATER NORMAL",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "HATER PARADO NORMAL",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "HATER DEDO",
+			"idle_offsets": [
+				8,
+				1
+			],
+			"idle_name": "HATER PARADO DEDO",
+			"anim": "dedo",
+			"loop_offsets": [
+				10,
+				8
+			]
+		},
+		{
+			"loop_name": "HATER BRAVO",
+			"idle_offsets": [
+				120,
+				90
+			],
+			"idle_name": "HATER BRAVO",
+			"anim": "bravo",
+			"loop_offsets": [
+				121,
+				90
+			]
+		}
+	],
+	"image": "HATER_Dialogue"
+}

@@ -1,0 +1,82 @@
+{
+	"song": {
+		"events": [
+			[
+				139565.217391305,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"0.2"
+					]
+				],
+				null,
+				""
+			],
+			[
+				139695.652173913,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pitrones"
+					]
+				]
+			],
+			[
+				139728.260869565,
+				[
+					[
+						"Change Character",
+						"dad",
+						"corenes"
+					]
+				]
+			],
+			[
+				173152.173913044,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pitro-hell"
+					]
+				],
+				null,
+				""
+			],
+			[
+				173184.782608696,
+				[
+					[
+						"Change Character",
+						"dad",
+						"core-hell"
+					]
+				],
+				null,
+				""
+			],
+			[
+				173250,
+				[
+					[
+						"Play Animation",
+						"SCREAM",
+						"dad"
+					]
+				]
+			],
+			[
+				174260.869565218,
+				[
+					[
+						"Change Scroll Speed",
+						"1.05",
+						"0.2"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "virso idle dance"
+		},
+		{
+			"offsets": [
+				-28,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "virso note left"
+		},
+		{
+			"offsets": [
+				13,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "virso note down"
+		},
+		{
+			"offsets": [
+				62,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "virso note up"
+		},
+		{
+			"offsets": [
+				78,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "virso note right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VIRSOPOWERGLOVEFODA",
+	"position": [
+		10,
+		250
+	],
+	"healthicon": "virso",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		60
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

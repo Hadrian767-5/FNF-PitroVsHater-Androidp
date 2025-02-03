@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "muito animado",
+			"text": "wiiiiiiiiii Core cheguei, vamo gravar o jogo de setinha? bep bop ",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "pitro"
+		},
+		{
+			"expression": "preocupado",
+			"text": "ih vei, nao vai dar nao",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "core"
+		},
+		{
+			"expression": "preocupado",
+			"text": "o pc deu pau, pegou virus, foi de elon musk",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "core"
+		},
+		{
+			"expression": "preocupado",
+			"text": "eu tava tentando baixar uma fangame de fnaf e deu nisso",
+			"boxState": "normal",
+			"speed": 0.00500000000000001,
+			"portrait": "core"
+		},
+		{
+			"expression": "confuso",
+			"text": "...?",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "pitro"
+		},
+		{
+			"expression": "triste",
+			"text": "poxa que pena",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pitro"
+		},
+		{
+			"expression": "normal",
+			"text": "que tal se a gente fazer um video cantando?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "core"
+		},
+		{
+			"expression": "animado",
+			"text": "tipo uma batalha de rap?",
+			"boxState": "angry",
+			"speed": 0.015,
+			"portrait": "pitro"
+		},
+		{
+			"expression": "normal",
+			"text": "aaaaaaahhh vai ser dahora",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "pitro"
+		},
+		{
+			"expression": "normal",
+			"text": "simbora KEEEEEEEEEEEEEEEEEEEEEEEEK",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "core"
+		}
+	]
+}

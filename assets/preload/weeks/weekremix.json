@@ -1,0 +1,67 @@
+{
+	"storyName": "remixes",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Hater (b-side)",
+			"sonic-b",
+			[
+				226,
+				20,
+				75
+			]
+		],
+		[
+			"Punchtune (c-side)",
+			"core-c",
+			[
+				146,
+				93,
+				95
+			]
+		],
+		[
+			"Strongstar (d-side)",
+			"gabs-d",
+			[
+				126,
+				93,
+				255
+			]
+		],
+		[
+			"Haterzinho",
+			"haterzinho",
+			[
+				6,
+				193,
+				55
+			]
+		],
+		[
+			"From Ell 669",
+			"megagay",
+			[
+				120,
+				40,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "side remixes cool"
+}

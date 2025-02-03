@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "stagehell",
+		"player1": "bf-demon",
+		"player2": "demon",
+		"player3": null,
+		"events": [
+			[
+				205090.909090909,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205159.090909091,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205227.272727272,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205295.454545454,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205363.636363636,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205431.818181818,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205500,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205568.181818181,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205636.363636363,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205704.545454545,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205772.727272727,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205840.909090909,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205909.090909091,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				205977.272727272,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				206045.454545454,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				206113.636363636,
+				[
+					[
+						"Play Animation",
+						"final",
+						"dad"
+					]
+				]
+			],
+			[
+				207272.727272727,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 220,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "From-Hell"
+	}
+}

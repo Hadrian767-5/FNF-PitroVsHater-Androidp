@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"expression": "dedo",
+			"text": "Pare de postar Friday Night Funkin",
+			"boxState": "normal",
+			"portrait": "hater",
+			"speed": 0.06
+		},
+		{
+			"expression": "bravo",
+			"text": "Imediatamente.",
+			"boxState": "normal",
+			"portrait": "hater",
+			"speed": 0.015
+		},
+		{
+			"expression": "confuso",
+			"text": "A",
+			"boxState": "normal",
+			"portrait": "pitro",
+			"speed": 0.045
+		}
+	]
+}

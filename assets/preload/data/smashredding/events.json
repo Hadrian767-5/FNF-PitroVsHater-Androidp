@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "barzinhochords",
+		"player1": "bf",
+		"player2": "gabs",
+		"player3": null,
+		"events": [
+			[
+				89428.5714285715,
+				[
+					[
+						"Play Animation",
+						"funny",
+						"dad"
+					]
+				]
+			],
+			[
+				90785.7142857144,
+				[
+					[
+						"Play Animation",
+						"spin",
+						"dad"
+					]
+				]
+			],
+			[
+				91428.5714285715,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gabs-guitarra"
+					]
+				]
+			],
+			[
+				146285.714285714,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gabs"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ju",
+		"bpm": 210,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Smashredding"
+	}
+}
