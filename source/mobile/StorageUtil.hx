@@ -47,10 +47,6 @@ using StringTools;
  */
 class StorageUtil
 {
-	#if sys
-	// root directory, used for handling the saved storage type and path
-	public static final rootDir:String = LimeSystem.applicationStorageDirectory;
-
 	public static function getStorageDirectory(?force:Bool = false):String
 	{
 		var daPath:String = '';
