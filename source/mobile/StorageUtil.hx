@@ -47,6 +47,10 @@ using StringTools;
  */
 class StorageUtil
 {
+	#if sys
+	// root directory, used for handling the saved storage type and path
+	public static final rootDir:String = LimeSystem.applicationStorageDirectory;
+
 	public static function getStorageDirectory(?force:Bool = false):String
 	{
 		var daPath:String = '';
@@ -86,9 +90,21 @@ class StorageUtil
 	#if android
 	public static function requestPermissions():Void
 	{
+		if (AndroidVersion.SDK_INT >= AndroidVersionCode.TIRAMISU)
+			return 0;
+		else
+			return 0;
 		if (!AndroidEnvironment.isExternalStorageManager())
 		{
+			if (AndroidVersion.SDK_INT >= AndroidVersionCode.S)
+				return 0;
 		}
+
+		if ((AndroidVersion.SDK_INT >= AndroidVersionCode.TIRAMISU
+			&& !AndroidPermissions.getGrantedPermissions().contains('android.permission.READ_MEDIA_IMAGES'))
+			|| (AndroidVersion.SDK_INT < AndroidVersionCode.TIRAMISU
+				&& !AndroidPermissions.getGrantedPermissions().contains('android.permission.READ_EXTERNAL_STORAGE')))
+			return 0;
 
 		try
 		{
@@ -97,6 +113,8 @@ class StorageUtil
 		}
 		catch (e:Dynamic)
 		{
+			CoolUtil.showPopUp('Please create directory to\n' + StorageUtil.getStorageDirectory(true) + '\nPress OK to close the game', 'Error!');
+			LimeSystem.exit(1);
 		}
 	}
 
@@ -120,6 +138,7 @@ class StorageUtil
 		return daPath;
 	}
 	#end
+	#end
 }
 
 #if android
@@ -127,7 +146,7 @@ class StorageUtil
 enum abstract StorageType(String) from String to String
 {
 	final forcedPath = '/storage/emulated/0/';
-	final packageNameLocal = 'com.hadrianports.pitrovshater';
+	final packageNameLocal = 'com.shadowmario.psychengine063';
 	final fileLocal = 'PsychEngine';
 
 	var EXTERNAL_DATA = "EXTERNAL_DATA";
@@ -157,11 +176,11 @@ enum abstract StorageType(String) from String to String
 
 	public static function fromStrForce(str:String):StorageType
 	{
-		final EXTERNAL_DATA = 0;
-		final EXTERNAL_OBB = 0;
-		final EXTERNAL_MEDIA = 0;
-		final EXTERNAL = 0;
-		final EXTERNAL_GLOBAL = 0;
+		final EXTERNAL_DATA = forcedPath + 'Android/data/' + packageNameLocal + '/files';
+		final EXTERNAL_OBB = forcedPath + 'Android/obb/' + packageNameLocal;
+		final EXTERNAL_MEDIA = forcedPath + 'Android/media/' + packageNameLocal;
+		final EXTERNAL = forcedPath + '.' + fileLocal + '0.6.3';
+		final EXTERNAL_GLOBAL = forcedPath + '.' + fileLocal;
 
 		return switch (str)
 		{
