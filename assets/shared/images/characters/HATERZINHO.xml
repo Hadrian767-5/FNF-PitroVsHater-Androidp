@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HATERZINHO.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hater note down0000" x="0" y="0" width="340" height="168" pivotX="268.4" pivotY="35.85"/>
+	<SubTexture name="hater note down0001" x="0" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0002" x="342" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0003" x="342" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0004" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0005" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0006" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0007" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0008" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0009" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0010" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0011" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0012" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater note down0013" x="684" y="0" width="340" height="168"/>
+	<SubTexture name="hater idle0000" x="0" y="170" width="260" height="271" pivotX="205.05" pivotY="135.25"/>
+	<SubTexture name="hater idle0001" x="0" y="170" width="260" height="271"/>
+	<SubTexture name="hater idle0002" x="262" y="170" width="260" height="271"/>
+	<SubTexture name="hater idle0003" x="262" y="170" width="260" height="271"/>
+	<SubTexture name="hater idle0004" x="524" y="170" width="260" height="271"/>
+	<SubTexture name="hater idle0005" x="524" y="170" width="260" height="271"/>
+	<SubTexture name="hater idle0006" x="0" y="443" width="260" height="271"/>
+	<SubTexture name="hater idle0007" x="0" y="443" width="260" height="271"/>
+	<SubTexture name="hater idle0008" x="0" y="443" width="260" height="271"/>
+	<SubTexture name="hater idle0009" x="0" y="443" width="260" height="271"/>
+	<SubTexture name="hater idle0010" x="0" y="443" width="260" height="271"/>
+	<SubTexture name="hater idle0011" x="0" y="443" width="260" height="271"/>
+	<SubTexture name="hater idle0012" x="0" y="443" width="260" height="271"/>
+	<SubTexture name="hater idle0013" x="0" y="443" width="260" height="271"/>
+	<SubTexture name="hater note left0000" x="262" y="443" width="287" height="271" pivotX="265.1" pivotY="135.25"/>
+	<SubTexture name="hater note left0001" x="262" y="443" width="287" height="271"/>
+	<SubTexture name="hater note left0002" x="551" y="443" width="287" height="271"/>
+	<SubTexture name="hater note left0003" x="551" y="443" width="287" height="271"/>
+	<SubTexture name="hater note left0004" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0005" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0006" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0007" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0008" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0009" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0010" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0011" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0012" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note left0013" x="0" y="716" width="287" height="271"/>
+	<SubTexture name="hater note right0000" x="289" y="716" width="265" height="271" pivotX="189.75" pivotY="135.25"/>
+	<SubTexture name="hater note right0001" x="289" y="716" width="265" height="271"/>
+	<SubTexture name="hater note right0002" x="556" y="716" width="265" height="271"/>
+	<SubTexture name="hater note right0003" x="556" y="716" width="265" height="271"/>
+	<SubTexture name="hater note right0004" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0005" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0006" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0007" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0008" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0009" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0010" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0011" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0012" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note right0013" x="0" y="989" width="265" height="271"/>
+	<SubTexture name="hater note up0000" x="267" y="989" width="250" height="521" pivotX="200" pivotY="385.3"/>
+	<SubTexture name="hater note up0001" x="267" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0002" x="519" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0003" x="519" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0004" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0005" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0006" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0007" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0008" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0009" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0010" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0011" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0012" x="771" y="989" width="250" height="521"/>
+	<SubTexture name="hater note up0013" x="771" y="989" width="250" height="521"/>
+</TextureAtlas>

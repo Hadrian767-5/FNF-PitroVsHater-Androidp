@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CORE_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CORE FOFO0000" x="0" y="0" width="425" height="527" pivotX="7.8" pivotY="29.2"/>
+	<SubTexture name="CORE FOFO0001" x="0" y="0" width="425" height="527"/>
+	<SubTexture name="CORE FOFO0002" x="430" y="0" width="425" height="527"/>
+	<SubTexture name="CORE FOFO0003" x="860" y="0" width="425" height="527"/>
+	<SubTexture name="CORE FOFO0004" x="860" y="0" width="425" height="527"/>
+	<SubTexture name="CORE FOFO0005" x="1290" y="0" width="425" height="527"/>
+	<SubTexture name="CORE NORMAL0000" x="0" y="532" width="425" height="527" pivotX="7.8" pivotY="29.2"/>
+	<SubTexture name="CORE NORMAL0001" x="0" y="532" width="425" height="527"/>
+	<SubTexture name="CORE NORMAL0002" x="430" y="532" width="425" height="527"/>
+	<SubTexture name="CORE NORMAL0003" x="860" y="532" width="425" height="527"/>
+	<SubTexture name="CORE NORMAL0004" x="860" y="532" width="425" height="527"/>
+	<SubTexture name="CORE NORMAL0005" x="1290" y="532" width="425" height="527"/>
+	<SubTexture name="CORE PARADO FOFO0000" x="0" y="1064" width="414" height="503" pivotX="1.5" pivotY="5.1"/>
+	<SubTexture name="CORE PARADO FOFO0001" x="0" y="1064" width="414" height="503"/>
+	<SubTexture name="CORE PARADO FOFO0002" x="0" y="1064" width="414" height="503"/>
+	<SubTexture name="CORE PARADO FOFO0003" x="0" y="1064" width="414" height="503"/>
+	<SubTexture name="CORE PARADO FOFO0004" x="0" y="1064" width="414" height="503"/>
+	<SubTexture name="CORE PARADO FOFO0005" x="0" y="1064" width="414" height="503"/>
+	<SubTexture name="CORE PARADO NORMAL0000" x="419" y="1064" width="414" height="503" pivotX="1.5" pivotY="5.1"/>
+	<SubTexture name="CORE PARADO PREOCUPADO0000" x="838" y="1064" width="507" height="512" pivotX="101.25" pivotY="6.2"/>
+	<SubTexture name="CORE PARADO PREOCUPADO0001" x="838" y="1064" width="507" height="512"/>
+	<SubTexture name="CORE PARADO PREOCUPADO0002" x="838" y="1064" width="507" height="512"/>
+	<SubTexture name="CORE PARADO PREOCUPADO0003" x="838" y="1064" width="507" height="512"/>
+	<SubTexture name="CORE PARADO PREOCUPADO0004" x="838" y="1064" width="507" height="512"/>
+	<SubTexture name="CORE PARADO PREOCUPADO0005" x="838" y="1064" width="507" height="512"/>
+	<SubTexture name="CORE PREOCUPADO0000" x="1350" y="1064" width="517" height="537" pivotX="107.8" pivotY="31.35"/>
+	<SubTexture name="CORE PREOCUPADO0001" x="1350" y="1064" width="517" height="537"/>
+	<SubTexture name="CORE PREOCUPADO0002" x="0" y="1606" width="517" height="537"/>
+	<SubTexture name="CORE PREOCUPADO0003" x="522" y="1606" width="517" height="537"/>
+	<SubTexture name="CORE PREOCUPADO0004" x="1044" y="1606" width="517" height="537"/>
+	<SubTexture name="CORE PREOCUPADO0005" x="0" y="2148" width="517" height="537"/>
+	<SubTexture name="CORE TROLL0000" x="522" y="2148" width="448" height="553" pivotX="17.75" pivotY="55.65"/>
+	<SubTexture name="CORE TROLL0001" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0002" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0003" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0004" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0005" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0006" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0007" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0008" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0009" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0010" x="522" y="2148" width="448" height="553"/>
+	<SubTexture name="CORE TROLL0011" x="522" y="2148" width="448" height="553"/>
+</TextureAtlas>

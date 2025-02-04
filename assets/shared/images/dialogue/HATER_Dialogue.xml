@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HATER_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HATER BRAVO0000" x="0" y="0" width="762" height="563" pivotX="241.85" pivotY="147.65"/>
+	<SubTexture name="HATER BRAVO0001" x="767" y="0" width="762" height="563"/>
+	<SubTexture name="HATER BRAVO0002" x="0" y="568" width="762" height="563"/>
+	<SubTexture name="HATER BRAVO0003" x="767" y="568" width="762" height="563"/>
+	<SubTexture name="HATER BRAVO0004" x="0" y="1136" width="762" height="563"/>
+	<SubTexture name="HATER BRAVO0005" x="767" y="1136" width="762" height="563"/>
+	<SubTexture name="HATER DEDO0000" x="0" y="1704" width="579" height="389" pivotX="98.6" pivotY="17.5"/>
+	<SubTexture name="HATER DEDO0001" x="0" y="1704" width="579" height="389"/>
+	<SubTexture name="HATER DEDO0002" x="584" y="1704" width="579" height="389"/>
+	<SubTexture name="HATER DEDO0003" x="1168" y="1704" width="579" height="389"/>
+	<SubTexture name="HATER DEDO0004" x="1168" y="1704" width="579" height="389"/>
+	<SubTexture name="HATER DEDO0005" x="0" y="2098" width="579" height="389"/>
+	<SubTexture name="HATER NORMAL0000" x="584" y="2098" width="424" height="392" pivotX="90.8" pivotY="19.95"/>
+	<SubTexture name="HATER NORMAL0001" x="584" y="2098" width="424" height="392"/>
+	<SubTexture name="HATER NORMAL0002" x="1013" y="2098" width="424" height="392"/>
+	<SubTexture name="HATER NORMAL0003" x="1442" y="2098" width="424" height="392"/>
+	<SubTexture name="HATER NORMAL0004" x="1442" y="2098" width="424" height="392"/>
+	<SubTexture name="HATER NORMAL0005" x="0" y="2495" width="424" height="392"/>
+	<SubTexture name="HATER PARADO DEDO0000" x="429" y="2495" width="553" height="381" pivotX="98.6" pivotY="9.15"/>
+	<SubTexture name="HATER PARADO DEDO0001" x="429" y="2495" width="553" height="381"/>
+	<SubTexture name="HATER PARADO DEDO0002" x="429" y="2495" width="553" height="381"/>
+	<SubTexture name="HATER PARADO DEDO0003" x="429" y="2495" width="553" height="381"/>
+	<SubTexture name="HATER PARADO DEDO0004" x="429" y="2495" width="553" height="381"/>
+	<SubTexture name="HATER PARADO DEDO0005" x="429" y="2495" width="553" height="381"/>
+	<SubTexture name="HATER PARADO NORMAL0000" x="987" y="2495" width="409" height="384" pivotX="90.8" pivotY="11.6"/>
+	<SubTexture name="HATER PARADO NORMAL0001" x="987" y="2495" width="409" height="384"/>
+	<SubTexture name="HATER PARADO NORMAL0002" x="987" y="2495" width="409" height="384"/>
+	<SubTexture name="HATER PARADO NORMAL0003" x="987" y="2495" width="409" height="384"/>
+	<SubTexture name="HATER PARADO NORMAL0004" x="987" y="2495" width="409" height="384"/>
+	<SubTexture name="HATER PARADO NORMAL0005" x="987" y="2495" width="409" height="384"/>
+</TextureAtlas>

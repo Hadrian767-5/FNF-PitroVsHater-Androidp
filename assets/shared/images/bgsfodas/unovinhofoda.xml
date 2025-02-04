@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="unovinhofoda.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="colonia instance 10000" x="0" y="0" width="919" height="917" frameX="0" frameY="-2" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10001" x="2766" y="924" width="908" height="914" frameX="-11" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10002" x="915" y="1844" width="908" height="914" frameX="-11" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10003" x="1822" y="3682" width="904" height="916" frameX="-15" frameY="-3" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10004" x="1828" y="1838" width="906" height="916" frameX="-15" frameY="-3" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10005" x="2739" y="1843" width="903" height="919" frameX="-18" frameY="0" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10006" x="2766" y="0" width="904" height="919" frameX="-18" frameY="0" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10007" x="0" y="1844" width="910" height="914" frameX="-12" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10008" x="1851" y="0" width="910" height="914" frameX="-12" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10009" x="924" y="0" width="922" height="914" frameX="0" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10010" x="0" y="922" width="919" height="917" frameX="0" frameY="-2" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10011" x="915" y="2763" width="908" height="914" frameX="-11" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10012" x="909" y="3682" width="908" height="914" frameX="-11" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10013" x="2731" y="3691" width="904" height="916" frameX="-15" frameY="-3" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10014" x="1828" y="2759" width="906" height="916" frameX="-15" frameY="-3" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10015" x="2739" y="2767" width="903" height="919" frameX="-18" frameY="0" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10016" x="0" y="3682" width="904" height="919" frameX="-18" frameY="0" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10017" x="0" y="2763" width="910" height="914" frameX="-12" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10018" x="1851" y="919" width="910" height="914" frameX="-12" frameY="-5" frameWidth="922" frameHeight="919"/>
+	<SubTexture name="colonia instance 10019" x="924" y="919" width="922" height="914" frameX="0" frameY="-5" frameWidth="922" frameHeight="919"/>
+</TextureAtlas>

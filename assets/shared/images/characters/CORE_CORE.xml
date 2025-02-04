@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CORE_CORE.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CORE DOWN0000" x="0" y="0" width="448" height="549" pivotX="-56.85" pivotY="-251.9"/>
+	<SubTexture name="CORE DOWN0001" x="0" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0002" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0003" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0004" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0005" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0006" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0007" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0008" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0009" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0010" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0011" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0012" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0013" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0014" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0015" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0016" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE DOWN0017" x="453" y="0" width="448" height="549"/>
+	<SubTexture name="CORE IDLE0000" x="906" y="0" width="506" height="579" pivotX="-64.6" pivotY="-221.95"/>
+	<SubTexture name="CORE IDLE0001" x="906" y="0" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0002" x="1417" y="0" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0003" x="1417" y="0" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0004" x="0" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0005" x="0" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0006" x="511" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0007" x="511" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0008" x="1022" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0009" x="1022" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0010" x="1022" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0011" x="1022" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0012" x="1022" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0013" x="1022" y="584" width="506" height="579"/>
+	<SubTexture name="CORE IDLE0014" x="1022" y="584" width="506" height="579"/>
+	<SubTexture name="CORE LEFT0000" x="1533" y="584" width="377" height="582" pivotX="-49.8" pivotY="-218.85"/>
+	<SubTexture name="CORE LEFT0001" x="1533" y="584" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0002" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0003" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0004" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0005" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0006" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0007" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0008" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0009" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0010" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0011" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0012" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0013" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0014" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0015" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0016" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE LEFT0017" x="0" y="1171" width="377" height="582"/>
+	<SubTexture name="CORE RIGHT0000" x="382" y="1171" width="539" height="586" pivotX="-17.75" pivotY="-214.15"/>
+	<SubTexture name="CORE RIGHT0001" x="382" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0002" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0003" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0004" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0005" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0006" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0007" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0008" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0009" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0010" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0011" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0012" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0013" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0014" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0015" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0016" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE RIGHT0017" x="926" y="1171" width="539" height="586"/>
+	<SubTexture name="CORE UP0000" x="1470" y="1171" width="541" height="623" pivotX="58.65" pivotY="-175.85"/>
+	<SubTexture name="CORE UP0001" x="1470" y="1171" width="541" height="623"/>
+	<SubTexture name="CORE UP0002" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0003" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0004" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0005" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0006" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0007" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0008" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0009" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0010" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0011" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0012" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0013" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0014" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0015" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0016" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0017" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0018" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0019" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0020" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0021" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0022" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0023" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0024" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0025" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0026" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0027" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0028" x="0" y="1799" width="541" height="623"/>
+	<SubTexture name="CORE UP0029" x="0" y="1799" width="541" height="623"/>
+</TextureAtlas>

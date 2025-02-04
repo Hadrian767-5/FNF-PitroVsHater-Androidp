@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pixeltro.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pitro left 0000" x="0" y="128" width="64" height="64"/>
+	<SubTexture name="pitro left 0001" x="64" y="128" width="64" height="64"/>
+	<SubTexture name="pitro idle 0000" x="0" y="0" width="64" height="64"/>
+	<SubTexture name="pitro idle 0001" x="64" y="0" width="64" height="64"/>
+	<SubTexture name="pitro idle 0002" x="128" y="0" width="64" height="64"/>
+	<SubTexture name="pitro idle 0003" x="192" y="0" width="64" height="64"/>
+	<SubTexture name="pitro idle 0004" x="0" y="64" width="64" height="64"/>
+	<SubTexture name="pitro idle 0005" x="64" y="64" width="64" height="64"/>
+	<SubTexture name="pitro idle 0006" x="128" y="64" width="64" height="64"/>
+	<SubTexture name="pitro right 0000" x="128" y="128" width="64" height="64"/>
+	<SubTexture name="pitro right 0001" x="192" y="128" width="64" height="64"/>
+	<SubTexture name="pitro up 0000" x="0" y="192" width="64" height="64"/>
+	<SubTexture name="pitro up 0001" x="64" y="192" width="64" height="64"/>
+	<SubTexture name="pitro down 0000" x="128" y="192" width="64" height="64"/>
+	<SubTexture name="pitro down 0001" x="192" y="192" width="64" height="64"/>
+	<SubTexture name="pitro miss left 0000" x="64" y="256" width="64" height="64"/>
+	<SubTexture name="pitro miss right 0000" x="192" y="256" width="64" height="64"/>
+	<SubTexture name="pitro miss up 0000" x="64" y="320" width="64" height="64"/>
+	<SubTexture name="pitro miss down 0000" x="192" y="320" width="64" height="64"/>
+</TextureAtlas>

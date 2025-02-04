@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VIRSO.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="virso anim0000" x="1568" y="4614" width="317" height="521" frameX="-82" frameY="-268" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso anim0001" x="1568" y="4614" width="317" height="521" frameX="-82" frameY="-268" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso anim0002" x="484" y="4743" width="316" height="520" frameX="-83" frameY="-269" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0003" x="484" y="4743" width="316" height="520" frameX="-83" frameY="-269" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0004" x="3699" y="511" width="381" height="495" frameX="0" frameY="-294" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0005" x="3699" y="511" width="381" height="495" frameX="0" frameY="-294" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0006" x="996" y="1573" width="484" height="669" frameX="-15" frameY="-115" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0007" x="504" y="2241" width="484" height="669" frameX="-15" frameY="-115" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0008" x="1452" y="3025" width="477" height="666" frameX="-24" frameY="-118" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0009" x="1452" y="3025" width="477" height="666" frameX="-24" frameY="-118" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0010" x="3472" y="2260" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0011" x="3472" y="2260" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0012" x="3472" y="2260" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0013" x="3472" y="2260" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0014" x="3472" y="2260" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0015" x="2988" y="2267" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0016" x="3472" y="2260" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0017" x="1477" y="2352" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0018" x="1707" y="0" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0019" x="1961" y="2352" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0020" x="2205" y="0" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0021" x="2445" y="2352" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0022" x="2703" y="0" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0023" x="0" y="2898" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0024" x="3201" y="0" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0025" x="484" y="2915" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0026" x="0" y="673" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0027" x="2988" y="1568" width="479" height="694" frameX="-23" frameY="-90" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0028" x="498" y="673" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0029" x="968" y="2925" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0030" x="1707" y="784" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0031" x="3472" y="2933" width="479" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0032" x="2205" y="784" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0033" x="3472" y="1568" width="479" height="687" frameX="-23" frameY="-97" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0034" x="1205" y="0" width="497" height="784" frameX="-23" frameY="0" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0035" x="993" y="2247" width="479" height="673" frameX="-23" frameY="-111" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0036" x="2703" y="784" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0037" x="3201" y="784" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0038" x="996" y="789" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0039" x="0" y="1457" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0040" x="498" y="1457" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0041" x="1494" y="1568" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0042" x="1992" y="1568" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0043" x="2490" y="1568" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0044" x="2490" y="1568" width="493" height="779" frameX="-23" frameY="-5" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0045" x="0" y="0" width="1200" height="668" frameX="-23" frameY="-116" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0046" x="2929" y="2940" width="499" height="641" frameX="-20" frameY="-143" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0047" x="0" y="2241" width="499" height="652" frameX="-20" frameY="-132" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0048" x="0" y="3571" width="479" height="648" frameX="-23" frameY="-136" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0049" x="1934" y="3025" width="479" height="653" frameX="-23" frameY="-131" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0050" x="2418" y="3025" width="479" height="649" frameX="-23" frameY="-135" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0051" x="2902" y="3586" width="479" height="642" frameX="-23" frameY="-142" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0052" x="484" y="3588" width="479" height="639" frameX="-23" frameY="-145" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0053" x="968" y="3598" width="479" height="633" frameX="-23" frameY="-151" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0054" x="3386" y="3606" width="479" height="630" frameX="-23" frameY="-154" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0055" x="2418" y="3679" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0056" x="1934" y="3683" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0057" x="1934" y="3683" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0058" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0059" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0060" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0061" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0062" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0063" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0064" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0065" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0066" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0067" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0068" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0069" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0070" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0071" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0072" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0073" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0074" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0075" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0076" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0077" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0078" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0079" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0080" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0081" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0082" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0083" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0084" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0085" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0086" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0087" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso anim0088" x="0" y="4224" width="479" height="616" frameX="-23" frameY="-168" frameWidth="1223" frameHeight="789"/>
+	<SubTexture name="virso idle dance0000" x="3566" y="4241" width="331" height="508" frameX="0" frameY="-14" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0001" x="3566" y="4241" width="331" height="508" frameX="0" frameY="-14" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0002" x="2418" y="4300" width="330" height="506" frameX="0" frameY="-16" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0003" x="2418" y="4300" width="330" height="506" frameX="0" frameY="-16" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0004" x="1923" y="4304" width="319" height="519" frameX="-5" frameY="-3" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0005" x="1923" y="4304" width="319" height="519" frameX="-5" frameY="-3" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0006" x="1246" y="4614" width="317" height="522" frameX="-6" frameY="0" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0007" x="1246" y="4614" width="317" height="522" frameX="-6" frameY="0" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0008" x="1568" y="4614" width="317" height="521" frameX="-6" frameY="-1" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0009" x="1568" y="4614" width="317" height="521" frameX="-6" frameY="-1" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0010" x="1568" y="4614" width="317" height="521" frameX="-6" frameY="-1" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0011" x="1568" y="4614" width="317" height="521" frameX="-6" frameY="-1" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0012" x="1568" y="4614" width="317" height="521" frameX="-6" frameY="-1" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso idle dance0013" x="1568" y="4614" width="317" height="521" frameX="-6" frameY="-1" frameWidth="331" frameHeight="522"/>
+	<SubTexture name="virso note down0000" x="1452" y="4161" width="466" height="448" frameX="0" frameY="-12" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0001" x="1452" y="4161" width="466" height="448" frameX="0" frameY="-12" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0002" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0003" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0004" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0005" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0006" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0007" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0008" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0009" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0010" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0011" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0012" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0013" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0014" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0015" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0016" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0017" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0018" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0019" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0020" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0021" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0022" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note down0023" x="1452" y="3696" width="456" height="460" frameX="-6" frameY="0" frameWidth="466" frameHeight="460"/>
+	<SubTexture name="virso note left0000" x="3699" y="1011" width="353" height="523" frameX="0" frameY="-2" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0001" x="3699" y="1011" width="353" height="523" frameX="0" frameY="-2" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0002" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0003" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0004" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0005" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0006" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0007" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0008" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0009" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0010" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0011" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0012" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0013" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0014" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0015" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0016" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note left0017" x="898" y="4236" width="343" height="525" frameX="-12" frameY="0" frameWidth="355" frameHeight="525"/>
+	<SubTexture name="virso note right0000" x="484" y="4232" width="409" height="506" frameX="-2" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0001" x="484" y="4232" width="409" height="506" frameX="-2" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0002" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0003" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0004" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0005" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0006" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0007" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0008" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0009" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0010" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0011" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0012" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0013" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0014" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0015" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0016" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0017" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0018" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0019" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0020" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0021" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note right0022" x="3699" y="0" width="392" height="506" frameX="0" frameY="0" frameWidth="411" frameHeight="506"/>
+	<SubTexture name="virso note up0000" x="2902" y="4233" width="328" height="566" frameX="0" frameY="0" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0001" x="2902" y="4233" width="328" height="566" frameX="0" frameY="0" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0002" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0003" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0004" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0005" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0006" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0007" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0008" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0009" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0010" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0011" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0012" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0013" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0014" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0015" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0016" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+	<SubTexture name="virso note up0017" x="3235" y="4241" width="326" height="551" frameX="-5" frameY="-15" frameWidth="331" frameHeight="566"/>
+</TextureAtlas>

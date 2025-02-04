@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="placa bottom.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="placa idle bottom0000" x="331" y="688" width="326" height="343" frameX="-107" frameY="0" frameWidth="499" frameHeight="343"/>
+	<SubTexture name="placa idle bottom0001" x="331" y="688" width="326" height="343" frameX="-107" frameY="0" frameWidth="499" frameHeight="343"/>
+	<SubTexture name="placa idle bottom0002" x="662" y="688" width="332" height="334" frameX="-103" frameY="-9" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0003" x="662" y="688" width="332" height="334" frameX="-103" frameY="-9" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0004" x="528" y="0" width="491" height="295" frameX="-8" frameY="-48" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0005" x="528" y="0" width="491" height="295" frameX="-8" frameY="-48" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0006" x="0" y="310" width="493" height="287" frameX="0" frameY="-56" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0007" x="0" y="310" width="493" height="287" frameX="0" frameY="-56" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0008" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-55" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0009" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-55" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0010" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-64" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0011" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-64" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0012" x="331" y="688" width="326" height="343" frameX="-107" frameY="0" frameWidth="499" frameHeight="343"/>
+	<SubTexture name="placa idle bottom0013" x="331" y="688" width="326" height="343" frameX="-107" frameY="0" frameWidth="499" frameHeight="343"/>
+	<SubTexture name="placa idle bottom0014" x="662" y="688" width="332" height="334" frameX="-103" frameY="-9" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0015" x="662" y="688" width="332" height="334" frameX="-103" frameY="-9" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0016" x="528" y="0" width="491" height="295" frameX="-8" frameY="-48" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0017" x="528" y="0" width="491" height="295" frameX="-8" frameY="-48" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0018" x="0" y="310" width="493" height="287" frameX="0" frameY="-56" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0019" x="0" y="310" width="493" height="287" frameX="0" frameY="-56" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0020" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-55" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0021" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-55" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0022" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-64" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa idle bottom0023" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-64" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0000" x="725" y="1444" width="186" height="94" frameX="-232" frameY="-289" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0001" x="0" y="1349" width="296" height="318" frameX="-122" frameY="-65" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0002" x="528" y="300" width="318" height="383" frameX="-112" frameY="0" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0003" x="528" y="300" width="318" height="383" frameX="-112" frameY="0" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0004" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0005" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0006" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0007" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0008" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0009" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0010" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0011" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0012" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0013" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0014" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0015" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0016" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0017" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0018" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0019" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0020" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0021" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0022" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0023" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0024" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0025" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0026" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0027" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0028" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0029" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0030" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0031" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0032" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0033" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0034" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0035" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0036" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0037" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0038" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0039" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0040" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0041" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0042" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0043" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0044" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0045" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0046" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0047" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0048" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0049" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0050" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0051" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0052" x="0" y="1036" width="361" height="308" frameX="-38" frameY="-75" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0053" x="0" y="1036" width="361" height="308" frameX="-38" frameY="-75" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0054" x="0" y="0" width="523" height="305" frameX="-48" frameY="-78" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0055" x="0" y="0" width="523" height="305" frameX="-48" frameY="-78" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0056" x="366" y="1036" width="215" height="258" frameX="-59" frameY="-125" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0057" x="366" y="1036" width="215" height="258" frameX="-59" frameY="-125" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0058" x="366" y="1299" width="279" height="8" frameX="-97" frameY="-375" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0059" x="366" y="1299" width="279" height="8" frameX="-97" frameY="-375" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa long bottom0060" x="725" y="1320" width="168" height="119" frameX="-236" frameY="-238" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0000" x="725" y="1444" width="186" height="94" frameX="-232" frameY="-289" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0001" x="0" y="1349" width="296" height="318" frameX="-122" frameY="-65" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0002" x="528" y="300" width="318" height="383" frameX="-112" frameY="0" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0003" x="528" y="300" width="318" height="383" frameX="-112" frameY="0" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0004" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0005" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0006" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0007" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0008" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0009" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0010" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0011" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0012" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0013" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0014" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0015" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0016" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0017" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0018" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0019" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0020" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0021" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0022" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0023" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0024" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0025" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0026" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0027" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0028" x="0" y="1036" width="361" height="308" frameX="-38" frameY="-75" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0029" x="0" y="1036" width="361" height="308" frameX="-38" frameY="-75" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0030" x="0" y="0" width="523" height="305" frameX="-48" frameY="-78" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0031" x="0" y="0" width="523" height="305" frameX="-48" frameY="-78" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0032" x="366" y="1036" width="215" height="258" frameX="-59" frameY="-125" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0033" x="366" y="1036" width="215" height="258" frameX="-59" frameY="-125" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0034" x="366" y="1299" width="279" height="8" frameX="-97" frameY="-375" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0035" x="366" y="1299" width="279" height="8" frameX="-97" frameY="-375" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa medium bottom0036" x="851" y="548" width="168" height="119" frameX="-236" frameY="-238" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa null bottom0000" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0001" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0002" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0003" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0004" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0005" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0006" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0007" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0008" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0009" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0010" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0011" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0012" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0013" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0014" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0015" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0016" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0017" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0018" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0019" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0020" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0021" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0022" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0023" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0024" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0025" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0026" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0027" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0028" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0029" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0030" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0031" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0032" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0033" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0034" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0035" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0036" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0037" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0038" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0039" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0040" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0041" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0042" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0043" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0044" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0045" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0046" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0047" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0048" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0049" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0050" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0051" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0052" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0053" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0054" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0055" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0056" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0057" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0058" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0059" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa null bottom0060" x="851" y="424" width="168" height="119"/>
+	<SubTexture name="placa short bottom0000" x="725" y="1444" width="186" height="94" frameX="-232" frameY="-289" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0001" x="0" y="1349" width="296" height="318" frameX="-122" frameY="-65" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0002" x="528" y="300" width="318" height="383" frameX="-112" frameY="0" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0003" x="528" y="300" width="318" height="383" frameX="-112" frameY="0" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0004" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0005" x="0" y="602" width="326" height="343" frameX="-107" frameY="-40" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0006" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0007" x="662" y="688" width="332" height="334" frameX="-103" frameY="-49" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0008" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0009" x="528" y="0" width="491" height="295" frameX="-8" frameY="-88" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0010" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0011" x="0" y="310" width="493" height="287" frameX="0" frameY="-96" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0012" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0013" x="662" y="1027" width="357" height="288" frameX="-42" frameY="-95" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0014" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0015" x="366" y="1320" width="354" height="279" frameX="-41" frameY="-104" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0016" x="0" y="1036" width="361" height="308" frameX="-38" frameY="-75" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0017" x="0" y="1036" width="361" height="308" frameX="-38" frameY="-75" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0018" x="0" y="0" width="523" height="305" frameX="-48" frameY="-78" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0019" x="0" y="0" width="523" height="305" frameX="-48" frameY="-78" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0020" x="366" y="1036" width="215" height="258" frameX="-59" frameY="-125" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0021" x="366" y="1036" width="215" height="258" frameX="-59" frameY="-125" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0022" x="366" y="1299" width="279" height="8" frameX="-97" frameY="-375" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0023" x="366" y="1299" width="279" height="8" frameX="-97" frameY="-375" frameWidth="571" frameHeight="383"/>
+	<SubTexture name="placa short bottom0024" x="851" y="300" width="168" height="119" frameX="-236" frameY="-238" frameWidth="571" frameHeight="383"/>
+</TextureAtlas>

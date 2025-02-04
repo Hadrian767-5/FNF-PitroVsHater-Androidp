@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PITRO_Dialogue.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PITRO ANIMADO0000" x="0" y="0" width="543" height="566" pivotX="134.9" pivotY="49.15"/>
+	<SubTexture name="PITRO ANIMADO0001" x="0" y="0" width="543" height="566"/>
+	<SubTexture name="PITRO ANIMADO0002" x="548" y="0" width="543" height="566"/>
+	<SubTexture name="PITRO ANIMADO0003" x="1096" y="0" width="543" height="566"/>
+	<SubTexture name="PITRO ANIMADO0004" x="1096" y="0" width="543" height="566"/>
+	<SubTexture name="PITRO ANIMADO0005" x="0" y="571" width="543" height="566"/>
+	<SubTexture name="PITRO CONFUSO0000" x="548" y="571" width="461" height="542" pivotX="-1.7" pivotY="16.1"/>
+	<SubTexture name="PITRO CONFUSO0001" x="548" y="571" width="461" height="542"/>
+	<SubTexture name="PITRO CONFUSO0002" x="548" y="571" width="461" height="542"/>
+	<SubTexture name="PITRO CONFUSO0003" x="548" y="571" width="461" height="542"/>
+	<SubTexture name="PITRO CONFUSO0004" x="548" y="571" width="461" height="542"/>
+	<SubTexture name="PITRO CONFUSO0005" x="548" y="571" width="461" height="542"/>
+	<SubTexture name="PITRO MUITO ANIMADO0000" x="1014" y="571" width="495" height="724" pivotX="10.95" pivotY="197.45"/>
+	<SubTexture name="PITRO MUITO ANIMADO0001" x="1014" y="571" width="495" height="724"/>
+	<SubTexture name="PITRO MUITO ANIMADO0002" x="1514" y="571" width="495" height="724"/>
+	<SubTexture name="PITRO MUITO ANIMADO0003" x="0" y="1300" width="495" height="724"/>
+	<SubTexture name="PITRO MUITO ANIMADO0004" x="0" y="1300" width="495" height="724"/>
+	<SubTexture name="PITRO MUITO ANIMADO0005" x="500" y="1300" width="495" height="724"/>
+	<SubTexture name="PITRO NORMAL0000" x="1000" y="1300" width="467" height="541" pivotX="6" pivotY="15.2"/>
+	<SubTexture name="PITRO NORMAL0001" x="1000" y="1300" width="467" height="541"/>
+	<SubTexture name="PITRO NORMAL0002" x="1472" y="1300" width="467" height="541"/>
+	<SubTexture name="PITRO NORMAL0003" x="0" y="2029" width="467" height="541"/>
+	<SubTexture name="PITRO NORMAL0004" x="0" y="2029" width="467" height="541"/>
+	<SubTexture name="PITRO NORMAL0005" x="472" y="2029" width="467" height="541"/>
+	<SubTexture name="PITRO PARADO ANIMADO0000" x="944" y="2029" width="517" height="528" pivotX="112.35" pivotY="11.65"/>
+	<SubTexture name="PITRO PARADO ANIMADO0001" x="944" y="2029" width="517" height="528"/>
+	<SubTexture name="PITRO PARADO ANIMADO0002" x="944" y="2029" width="517" height="528"/>
+	<SubTexture name="PITRO PARADO ANIMADO0003" x="944" y="2029" width="517" height="528"/>
+	<SubTexture name="PITRO PARADO ANIMADO0004" x="944" y="2029" width="517" height="528"/>
+	<SubTexture name="PITRO PARADO ANIMADO0005" x="944" y="2029" width="517" height="528"/>
+	<SubTexture name="PITRO PARADO NORMAL0000" x="1466" y="2029" width="459" height="527" pivotX="3.4" pivotY="1.45"/>
+	<SubTexture name="PITRO PARADO NORMAL0001" x="1466" y="2029" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO NORMAL0002" x="1466" y="2029" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO NORMAL0003" x="1466" y="2029" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO NORMAL0004" x="1466" y="2029" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO NORMAL0005" x="1466" y="2029" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO TRISTE0000" x="0" y="2575" width="459" height="527" pivotX="3.4" pivotY="1.45"/>
+	<SubTexture name="PITRO PARADO TRISTE0001" x="0" y="2575" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO TRISTE0002" x="0" y="2575" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO TRISTE0003" x="0" y="2575" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO TRISTE0004" x="0" y="2575" width="459" height="527"/>
+	<SubTexture name="PITRO PARADO TRISTE0005" x="0" y="2575" width="459" height="527"/>
+	<SubTexture name="PITRO TRISTE0000" x="464" y="2575" width="467" height="541" pivotX="6" pivotY="15.2"/>
+	<SubTexture name="PITRO TRISTE0001" x="464" y="2575" width="467" height="541"/>
+	<SubTexture name="PITRO TRISTE0002" x="936" y="2575" width="467" height="541"/>
+	<SubTexture name="PITRO TRISTE0003" x="1408" y="2575" width="467" height="541"/>
+	<SubTexture name="PITRO TRISTE0004" x="1408" y="2575" width="467" height="541"/>
+	<SubTexture name="PITRO TRISTE0005" x="0" y="3121" width="467" height="541"/>
+</TextureAtlas>

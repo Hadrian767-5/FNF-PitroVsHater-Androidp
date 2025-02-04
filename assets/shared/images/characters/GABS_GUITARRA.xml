@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GABS_GUITARRA.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GABS DOWN0000" x="0" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0001" x="0" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0002" x="1053" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0003" x="2106" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0004" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0005" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0006" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0007" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0008" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0009" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0010" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0011" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0012" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0013" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0014" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0015" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0016" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0017" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0018" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0019" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0020" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0021" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0022" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0023" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0024" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0025" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0026" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0027" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0028" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0029" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0030" x="3159" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS DOWN0031" x="4212" y="0" width="1051" height="653"/>
+	<SubTexture name="GABS IDLE0000" x="5265" y="0" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0001" x="5791" y="0" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0002" x="6317" y="0" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0003" x="6843" y="0" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0004" x="7369" y="0" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0005" x="0" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0006" x="526" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0007" x="1052" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0008" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0009" x="2104" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0010" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0011" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0012" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0013" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0014" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0015" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0016" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0017" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0018" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0019" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0020" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0021" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0022" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0023" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0024" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0025" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS IDLE0026" x="1578" y="655" width="524" height="531"/>
+	<SubTexture name="GABS LEFT0000" x="2630" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0001" x="2630" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0002" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0003" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0004" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0005" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0006" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0007" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0008" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0009" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0010" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0011" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0012" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0013" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0014" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0015" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0016" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0017" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0018" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0019" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0020" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0021" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0022" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0023" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0024" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0025" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0026" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0027" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0028" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0029" x="4450" y="655" width="908" height="648"/>
+	<SubTexture name="GABS LEFT0030" x="3540" y="655" width="908" height="648"/>
+	<SubTexture name="GABS NORMAL IDLE0000" x="5360" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0001" x="5360" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0002" x="5826" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0003" x="5826" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0004" x="6292" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0005" x="6292" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0006" x="6758" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0007" x="6758" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0008" x="7224" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0009" x="7224" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0010" x="7690" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0011" x="7690" y="655" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0012" x="0" y="1305" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0013" x="0" y="1305" width="464" height="533"/>
+	<SubTexture name="GABS NORMAL IDLE0014" x="0" y="1305" width="464" height="533"/>
+	<SubTexture name="GABS RIGHT0000" x="466" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0001" x="466" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0002" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0003" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0004" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0005" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0006" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0007" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0008" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0009" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0010" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0011" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0012" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0013" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0014" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0015" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0016" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0017" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0018" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0019" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0020" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0021" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0022" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0023" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0024" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0025" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0026" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0027" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0028" x="1434" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS RIGHT0029" x="2402" y="1305" width="966" height="652"/>
+	<SubTexture name="GABS SING DOWN0000" x="3370" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0001" x="3370" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0002" x="3905" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0003" x="3905" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0004" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0005" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0006" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0007" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0008" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0009" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0010" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0011" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0012" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0013" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING DOWN0014" x="4440" y="1305" width="533" height="497"/>
+	<SubTexture name="GABS SING LEFT0000" x="4975" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0001" x="4975" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0002" x="5548" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0003" x="5548" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0004" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0005" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0006" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0007" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0008" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0009" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0010" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0011" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0012" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0013" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING LEFT0014" x="6121" y="1305" width="571" height="494"/>
+	<SubTexture name="GABS SING RIGHT0000" x="6694" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0001" x="6694" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0002" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0003" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0004" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0005" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0006" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0007" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0008" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0009" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0010" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0011" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0012" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING RIGHT0013" x="7309" y="1305" width="613" height="527"/>
+	<SubTexture name="GABS SING UP0000" x="0" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0001" x="0" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0002" x="476" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0003" x="476" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0004" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0005" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0006" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0007" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0008" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0009" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0010" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0011" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0012" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0013" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS SING UP0014" x="952" y="1959" width="474" height="568"/>
+	<SubTexture name="GABS UP0000" x="1428" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0001" x="1428" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0002" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0003" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0004" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0005" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0006" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0007" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0008" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0009" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0010" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0011" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0012" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0013" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0014" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0015" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0016" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0017" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0018" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0019" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0020" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0021" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0022" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0023" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0024" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0025" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0026" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0027" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0028" x="2289" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0029" x="3150" y="1959" width="859" height="1009"/>
+	<SubTexture name="GABS UP0030" x="2289" y="1959" width="859" height="1009"/>
+</TextureAtlas>

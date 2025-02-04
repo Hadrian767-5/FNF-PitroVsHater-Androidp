@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EPICO.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dancing left0000" x="0" y="0" width="501" height="542"/>
+	<SubTexture name="dancing left0001" x="0" y="0" width="501" height="542"/>
+	<SubTexture name="dancing left0002" x="0" y="547" width="499" height="542" frameX="-2" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0003" x="0" y="547" width="499" height="542" frameX="-2" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0004" x="504" y="547" width="498" height="542" frameX="-3" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0005" x="504" y="547" width="498" height="542" frameX="-3" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0006" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0007" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0008" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0009" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0010" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0011" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0012" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0013" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing left0014" x="506" y="0" width="497" height="542" frameX="-4" frameY="0" frameWidth="501" frameHeight="542"/>
+	<SubTexture name="dancing right0000" x="1509" y="546" width="500" height="533" frameX="0" frameY="-9" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0001" x="1509" y="546" width="500" height="533" frameX="0" frameY="-9" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0002" x="1510" y="0" width="499" height="534" frameX="0" frameY="-8" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0003" x="1510" y="0" width="499" height="534" frameX="0" frameY="-8" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0004" x="1008" y="0" width="497" height="541" frameX="0" frameY="-1" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0005" x="1008" y="0" width="497" height="541" frameX="0" frameY="-1" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0006" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0007" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0008" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0009" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0010" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0011" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0012" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0013" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+	<SubTexture name="dancing right0014" x="1007" y="547" width="497" height="542" frameX="0" frameY="0" frameWidth="500" frameHeight="542"/>
+</TextureAtlas>

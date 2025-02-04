@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ovImpact.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="impact0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="0"/>
+	<SubTexture name="impact0001" x="1285" y="0" width="1280" height="720"/>
+	<SubTexture name="impact0002" x="2570" y="0" width="1280" height="720"/>
+	<SubTexture name="impact0003" x="0" y="725" width="1280" height="720"/>
+	<SubTexture name="impact0004" x="1285" y="725" width="1280" height="720"/>
+	<SubTexture name="impact0005" x="2570" y="725" width="1280" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corenes.png">
+<SubTexture name="dance right0000" x="0" y="66" width="38" height="58" frameX="-13" frameY="-15" frameWidth="56" frameHeight="69" />
+<SubTexture name="dance right0001" x="0" y="124" width="40" height="54" frameX="-12" frameY="-19" frameWidth="56" frameHeight="69" />
+<SubTexture name="dance right0002" x="120" y="124" width="40" height="52" frameX="-12" frameY="-21" frameWidth="56" frameHeight="69" />
+<SubTexture name="dance left0000" x="114" y="66" width="38" height="56" frameX="-13" frameY="-17" frameWidth="56" frameHeight="69" />
+<SubTexture name="dance left0001" x="38" y="66" width="38" height="58" frameX="-13" frameY="-15" frameWidth="56" frameHeight="69" />
+<SubTexture name="dance left0002" x="40" y="124" width="40" height="53" frameX="-12" frameY="-20" frameWidth="56" frameHeight="69" />
+<SubTexture name="dance left0003" x="80" y="124" width="40" height="53" frameX="-12" frameY="-20" frameWidth="56" frameHeight="69" />
+<SubTexture name="up0000" x="0" y="0" width="38" height="66" frameX="-13" frameY="-7" frameWidth="56" frameHeight="69" />
+<SubTexture name="up0001" x="38" y="0" width="38" height="61" frameX="-13" frameY="-12" frameWidth="56" frameHeight="69" />
+<SubTexture name="down0000" x="0" y="178" width="46" height="49" frameX="-12" frameY="-24" frameWidth="56" frameHeight="69" />
+<SubTexture name="down0001" x="202" y="0" width="45" height="52" frameX="-13" frameY="-21" frameWidth="56" frameHeight="69" />
+<SubTexture name="right0000" x="164" y="0" width="38" height="55" frameX="-16" frameY="-18" frameWidth="56" frameHeight="69" />
+<SubTexture name="right0001" x="76" y="66" width="38" height="58" frameX="-14" frameY="-15" frameWidth="56" frameHeight="69" />
+<SubTexture name="left0000" x="119" y="0" width="45" height="59" frameX="-9" frameY="-14" frameWidth="56" frameHeight="69" />
+<SubTexture name="left0001" x="76" y="0" width="43" height="60" frameX="-12" frameY="-13" frameWidth="56" frameHeight="69" />
+</TextureAtlas>

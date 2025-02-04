@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nesquikSplash.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nesquik10000" x="604" y="270" width="251" height="262" frameX="-107" frameY="-106" frameWidth="454" frameHeight="474"/>
+	<SubTexture name="nesquik10001" x="561" y="1079" width="454" height="470" frameX="0" frameY="-4" frameWidth="454" frameHeight="474"/>
+	<SubTexture name="nesquik10002" x="561" y="1079" width="454" height="470" frameX="0" frameY="-4" frameWidth="454" frameHeight="474"/>
+	<SubTexture name="nesquik10003" x="561" y="1554" width="417" height="455" frameX="-14" frameY="-4" frameWidth="454" frameHeight="474"/>
+	<SubTexture name="nesquik10004" x="561" y="1554" width="417" height="455" frameX="-14" frameY="-4" frameWidth="454" frameHeight="474"/>
+	<SubTexture name="nesquik10005" x="577" y="547" width="425" height="464" frameX="-10" frameY="0" frameWidth="454" frameHeight="474"/>
+	<SubTexture name="nesquik10006" x="577" y="547" width="425" height="464" frameX="-10" frameY="0" frameWidth="454" frameHeight="474"/>
+	<SubTexture name="nesquik10007" x="577" y="547" width="425" height="464" frameX="-10" frameY="0" frameWidth="454" frameHeight="474"/>
+	<SubTexture name="nesquik20000" x="604" y="0" width="263" height="265" frameX="-151" frameY="-102" frameWidth="599" frameHeight="545"/>
+	<SubTexture name="nesquik20001" x="0" y="0" width="599" height="542" frameX="0" frameY="-3" frameWidth="599" frameHeight="545"/>
+	<SubTexture name="nesquik20002" x="0" y="0" width="599" height="542" frameX="0" frameY="-3" frameWidth="599" frameHeight="545"/>
+	<SubTexture name="nesquik20003" x="0" y="1079" width="556" height="513" frameX="-25" frameY="-6" frameWidth="599" frameHeight="545"/>
+	<SubTexture name="nesquik20004" x="0" y="1079" width="556" height="513" frameX="-25" frameY="-6" frameWidth="599" frameHeight="545"/>
+	<SubTexture name="nesquik20005" x="0" y="547" width="572" height="527" frameX="-17" frameY="0" frameWidth="599" frameHeight="545"/>
+	<SubTexture name="nesquik20006" x="0" y="547" width="572" height="527" frameX="-17" frameY="0" frameWidth="599" frameHeight="545"/>
+	<SubTexture name="nesquik20007" x="0" y="547" width="572" height="527" frameX="-17" frameY="0" frameWidth="599" frameHeight="545"/>
+</TextureAtlas>

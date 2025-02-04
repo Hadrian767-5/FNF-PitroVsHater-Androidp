@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SUPERSONICMEGAGAY.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hater idle0000" x="6450" y="1234" width="399" height="587"/>
+	<SubTexture name="hater idle0001" x="6450" y="1234" width="399" height="587"/>
+	<SubTexture name="hater idle0002" x="6854" y="1246" width="399" height="587"/>
+	<SubTexture name="hater idle0003" x="6854" y="1246" width="399" height="587"/>
+	<SubTexture name="hater idle0004" x="7258" y="1246" width="399" height="587"/>
+	<SubTexture name="hater idle0005" x="7258" y="1246" width="399" height="587"/>
+	<SubTexture name="hater idle0006" x="7662" y="1246" width="399" height="587"/>
+	<SubTexture name="hater idle0007" x="7662" y="1246" width="399" height="587"/>
+	<SubTexture name="hater idle0008" x="438" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0009" x="438" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0010" x="0" y="1358" width="399" height="587"/>
+	<SubTexture name="hater idle0011" x="0" y="1358" width="399" height="587"/>
+	<SubTexture name="hater idle0012" x="842" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0013" x="842" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0014" x="1246" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0015" x="1246" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0016" x="1650" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0017" x="1650" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0018" x="2054" y="1307" width="399" height="587"/>
+	<SubTexture name="hater idle0019" x="2054" y="1307" width="399" height="587"/>
+	<SubTexture name="hater note down0000" x="0" y="0" width="642" height="743"/>
+	<SubTexture name="hater note down0001" x="0" y="0" width="642" height="743"/>
+	<SubTexture name="hater note down0002" x="647" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0003" x="647" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0004" x="1237" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0005" x="1237" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0006" x="1827" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0007" x="1827" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0008" x="2417" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0009" x="2417" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0010" x="3007" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0011" x="3007" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0012" x="647" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0013" x="647" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0014" x="1237" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0015" x="1237" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0016" x="1827" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0017" x="1827" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0018" x="2417" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note down0019" x="2417" y="0" width="585" height="692" frameX="-29" frameY="-39" frameWidth="642" frameHeight="743"/>
+	<SubTexture name="hater note left0000" x="3597" y="630" width="518" height="629"/>
+	<SubTexture name="hater note left0001" x="3597" y="630" width="518" height="629"/>
+	<SubTexture name="hater note left0002" x="5557" y="0" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0003" x="5557" y="0" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0004" x="4681" y="610" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0005" x="4681" y="610" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0006" x="4120" y="668" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0007" x="4120" y="668" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0008" x="3275" y="1264" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0009" x="3275" y="1264" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0010" x="3675" y="1264" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0011" x="3675" y="1264" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0012" x="5081" y="610" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0013" x="5081" y="610" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0014" x="5957" y="0" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0015" x="5957" y="0" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0016" x="6357" y="0" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0017" x="6357" y="0" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0018" x="6757" y="0" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note left0019" x="6757" y="0" width="395" height="606" frameX="-49" frameY="0" frameWidth="518" frameHeight="629"/>
+	<SubTexture name="hater note right0000" x="3597" y="0" width="572" height="625"/>
+	<SubTexture name="hater note right0001" x="3597" y="0" width="572" height="625"/>
+	<SubTexture name="hater note right0002" x="647" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0003" x="647" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0004" x="0" y="748" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0005" x="0" y="748" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0006" x="1085" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0007" x="1085" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0008" x="1523" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0009" x="1523" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0010" x="1961" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0011" x="1961" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0012" x="2399" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0013" x="2399" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0014" x="2837" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0015" x="2837" y="697" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0016" x="4681" y="0" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0017" x="4681" y="0" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0018" x="5119" y="0" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note right0019" x="5119" y="0" width="433" height="605" frameX="-101" frameY="0" frameWidth="572" frameHeight="625"/>
+	<SubTexture name="hater note up0000" x="4174" y="0" width="502" height="663"/>
+	<SubTexture name="hater note up0001" x="4174" y="0" width="502" height="663"/>
+	<SubTexture name="hater note up0002" x="7157" y="0" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0003" x="7157" y="0" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0004" x="5481" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0005" x="5481" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0006" x="4520" y="1221" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0007" x="4520" y="1221" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0008" x="4075" y="1279" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0009" x="4075" y="1279" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0010" x="4906" y="1221" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0011" x="4906" y="1221" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0012" x="5867" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0013" x="5867" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0014" x="6253" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0015" x="6253" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0016" x="6639" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0017" x="6639" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0018" x="7025" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0019" x="7025" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0020" x="7411" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0021" x="7411" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0022" x="7543" y="0" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0023" x="7543" y="0" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0024" x="7797" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0025" x="7797" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0026" x="5292" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0027" x="5292" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0028" x="5678" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0029" x="5678" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0030" x="6064" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0031" x="6064" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0032" x="7157" y="0" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0033" x="7157" y="0" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0034" x="5481" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0035" x="5481" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0036" x="4520" y="1221" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0037" x="4520" y="1221" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0038" x="4075" y="1279" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0039" x="4075" y="1279" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0040" x="4906" y="1221" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0041" x="4906" y="1221" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0042" x="5867" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0043" x="5867" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0044" x="6253" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0045" x="6253" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0046" x="6639" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0047" x="6639" y="611" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0048" x="7025" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0049" x="7025" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0050" x="7411" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0051" x="7411" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0052" x="7543" y="0" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0053" x="7543" y="0" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0054" x="7797" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0055" x="7797" y="623" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0056" x="5292" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0057" x="5292" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0058" x="5678" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="hater note up0059" x="5678" y="1234" width="381" height="618" frameX="-69" frameY="0" frameWidth="502" frameHeight="663"/>
+</TextureAtlas>
