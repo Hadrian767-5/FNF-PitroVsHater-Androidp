@@ -1,22 +1,40 @@
 {
-	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+	"storyName": "Boyfriend vs Pitro",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "hater",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"parents-christmas",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "christmas",
-
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"What",
+			"pitro",
+			[
+				255,
+				55,
+				60
+			]
+		],
+		[
+			"Canon",
+			"canon",
+			[
+				255,
+				55,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "pitrovsbf"
 }

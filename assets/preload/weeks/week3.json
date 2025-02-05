@@ -1,22 +1,49 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+	"storyName": "Pitro vs Gabs",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "gabs",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hedge Man",
+			"gabs",
+			[
+				86,
+				113,
+				253
+			]
+		],
+		[
+			"Strongstar",
+			"gabs",
+			[
+				126,
+				113,
+				213
+			]
+		],
+		[
+			"Smashredding",
+			"gabs-guitarra",
+			[
+				226,
+				13,
+				13
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "pitrovsgabs"
 }

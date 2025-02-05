@@ -1,22 +1,49 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "Pitro vs Core",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"core",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Core",
+			"core-core",
+			[
+				126,
+				193,
+				255
+			]
+		],
+		[
+			"Punchtune",
+			"core",
+			[
+				86,
+				173,
+				255
+			]
+		],
+		[
+			"Hardcore",
+			"core",
+			[
+				86,
+				173,
+				255
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "pitrovshater"
 }
