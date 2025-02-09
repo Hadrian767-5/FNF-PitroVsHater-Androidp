@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crazyshit.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crazy0000" x="0" y="0" width="3061" height="1706" pivotX="-69.2" pivotY="0"/>
+	<SubTexture name="crazy0001" x="0" y="0" width="3061" height="1706"/>
+	<SubTexture name="crazy0002" x="3066" y="0" width="3061" height="1706"/>
+	<SubTexture name="crazy0003" x="3066" y="0" width="3061" height="1706"/>
+	<SubTexture name="crazy0004" x="0" y="1711" width="3061" height="1706"/>
+	<SubTexture name="crazy0005" x="0" y="1711" width="3061" height="1706"/>
+	<SubTexture name="crazy0006" x="3066" y="1711" width="3061" height="1706"/>
+	<SubTexture name="crazy0007" x="3066" y="1711" width="3061" height="1706"/>
+	<SubTexture name="crazy0008" x="0" y="3422" width="3061" height="1706"/>
+	<SubTexture name="crazy0009" x="0" y="3422" width="3061" height="1706"/>
+	<SubTexture name="crazy0010" x="3066" y="3422" width="3061" height="1706"/>
+	<SubTexture name="crazy0011" x="3066" y="3422" width="3061" height="1706"/>
+	<SubTexture name="crazy0012" x="0" y="5133" width="3061" height="1706"/>
+	<SubTexture name="crazy0013" x="0" y="5133" width="3061" height="1706"/>
+	<SubTexture name="crazy0014" x="3066" y="5133" width="3061" height="1706"/>
+	<SubTexture name="crazy0015" x="3066" y="5133" width="3061" height="1706"/>
+</TextureAtlas>

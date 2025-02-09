@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AMANDDICA.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOP0000" x="0" y="0" width="454" height="424" pivotX="13.2" pivotY="0.45"/>
+	<SubTexture name="BOP0001" x="0" y="0" width="454" height="424"/>
+	<SubTexture name="BOP0002" x="459" y="0" width="454" height="424"/>
+	<SubTexture name="BOP0003" x="459" y="0" width="454" height="424"/>
+	<SubTexture name="BOP0004" x="0" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0005" x="0" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0006" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0007" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0008" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0009" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0010" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0011" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0012" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0013" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0014" x="459" y="429" width="454" height="424"/>
+	<SubTexture name="BOP0015" x="459" y="429" width="454" height="424"/>
+</TextureAtlas>

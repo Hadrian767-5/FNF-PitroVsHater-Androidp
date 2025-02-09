@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bottomBop.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bottom Level Boppers instance 10000" x="0" y="0" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10001" x="0" y="0" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10002" x="3147" y="0" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10003" x="3147" y="0" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10004" x="0" y="1684" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10005" x="0" y="1684" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10006" x="3147" y="1684" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10007" x="3147" y="1684" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10008" x="0" y="3368" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10009" x="0" y="3368" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10010" x="0" y="3368" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10011" x="0" y="3368" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10012" x="0" y="3368" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10013" x="0" y="3368" width="3142" height="1679"/>
+	<SubTexture name="Bottom Level Boppers instance 10014" x="0" y="3368" width="3142" height="1679"/>
+</TextureAtlas>
